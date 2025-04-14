@@ -25,3 +25,4 @@ How to edit:
 4. Run `npm install --save-dev electron@latest`
 5. To run the program, run `npm run start`. If you are in VSCode, you can just debug it as well with the `Main + renderer` debug config.
 6. If you would like to contribute, please open a merge request.
+7. To make an executable of your file, run `npm run make` in the terminal.
