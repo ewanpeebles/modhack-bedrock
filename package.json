@@ -1,0 +1,26 @@
+{
+  "name": "modhack-bedrock",
+  "version": "1.0.0",
+  "description": "The alpha version of modhack-bedrock, an app designed to easily create Mods.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewanpeebles/modhack-bedrock.git"
+  },
+  "keywords": [
+    "tba"
+  ],
+  "author": "ModHaxor",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ewanpeebles/modhack-bedrock/issues"
+  },
+  "homepage": "https://github.com/ewanpeebles/modhack-bedrock#readme",
+  "devDependencies": {
+    "electron": "^35.1.5"
+  }
+}
