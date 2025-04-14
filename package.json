@@ -1,6 +1,6 @@
 {
   "name": "modhack-bedrock",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha",
   "description": "The alpha version of modhack-bedrock, an app designed to easily create Mods.",
   "main": "main.js",
   "scripts": {
