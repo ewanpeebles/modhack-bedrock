@@ -1,14 +1,17 @@
 [
     {
         "name": "Project A",
-        "description": "Description of Project A"
+        "description": "Description of Project A",
+        "id": 0
     },
     {
         "name": "Project B",
-        "description": "Description of Project B"
+        "description": "Description of Project B",
+        "id": 1
     },
     {
         "name": "Project C",
-        "description": "Description of Project C"
+        "description": "Description of Project C",
+        "id": 2
     }
 ]
